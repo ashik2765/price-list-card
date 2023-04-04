@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 29.99,
+      "features": [
+        "24/7 access",
+        "Cardio equipment",
+        "Free weights"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Premium Membership",
+      "price": 49.99,
+      "features": [
+        "24/7 access",
+        "Cardio equipment",
+        "Free weights",
+        "Group fitness classes",
+        "Personal trainer sessions"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Ultimate Membership",
+      "price": 79.99,
+      "features": [
+        "24/7 access",
+        "Cardio equipment",
+        "Free weights",
+        "Group fitness classes",
+        "Personal trainer sessions",
+        "Sauna and steam room access",
+        "Towel service"
+      ]
+    }
+  ]
+  
