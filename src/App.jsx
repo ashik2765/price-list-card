@@ -2,6 +2,7 @@ import { useState } from 'react'
 import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
+import NavBar from './components/NavBar/NavBar'
 
 function App() {
   
@@ -9,7 +10,7 @@ function App() {
 
   return (
     <div className="App">
-      
+      <NavBar></NavBar>
     <h1 className='text-7xl text-purple-600'>hello from tailwind</h1>
     <h1 className='text-6xl text-purple-400'>hello</h1>
 
