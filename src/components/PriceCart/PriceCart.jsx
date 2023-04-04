@@ -18,7 +18,7 @@ const PriceCart = ({price}) => {
                 feature={feature}
                 ></Features>)
             }
-            <button className='w-full  hover:bg-green-700 rounded-md bg-green-500 py-2 mt-auto m-2 text-white font-bold'>Buy Now</button>
+            <button className='w-full  hover:bg-green-700 rounded-md bg-green-500 py-2 mt-auto text-white font-bold'>Buy Now</button>
         </div>
     );
 };
